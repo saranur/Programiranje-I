@@ -1,6 +1,6 @@
  
 
-## [**01 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/01.cpp)
+## [**01 (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci%20code/Prvi%20ispitni.cpp)
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa fudbaler (fudbaler je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza.
 
