@@ -49,7 +49,7 @@ Zatim napisati i testirati funkciju koja će pronaći i ispisati porosječnu kub
 
 **(U ovom zadatku je zabranjeno indexirati elemente niza uglastim zagradama. Obavezno koristiti aritmetiku pokazivača.)**
 
-## [**03 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/03.cpp)
+## [**03 (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Treci%20ispitni.cpp)
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa vozilo (vozilo je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza.
 
