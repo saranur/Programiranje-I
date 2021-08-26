@@ -7,5 +7,5 @@ Repozitorij za zadatke iz Programiranja 1.
 
 [Postavke za trece zadatke](https://github.com/saranur/Programiranje-1/blob/main/Treci%20zadaci/Postavke%20za%20trece%20zadatke.md)
 
-[Postavke za cetvrte zadatke](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci%20code/Postavke%20za%20cetvrte%20zadatke.md)
+[Postavke za cetvrte zadatke](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Postavke%20za%20cetvrte%20zadatke.md)
 
