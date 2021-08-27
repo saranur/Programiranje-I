@@ -1,4 +1,4 @@
-## [**01**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 3/01.cpp)
+## [**01**](https://github.com/saranur/Programiranje-1/blob/main/Treci%20zadaci/Prvi%20zadatak.cpp)
 
 Napisati program koji će omogućiti korisniku da unese veličinu n jednodimenzionalnog dinamičkog niza integer vrijednosti (n > 2). Napisati rekurzivnu funkciju koja će taj niz puniti serijom brojeva tako da je svaki sljedeći broj jednak umnošku dva prethodna broja, a prva dva elementa su 1 i 3 (1, 3, 3, 9, 27, ...).
 
