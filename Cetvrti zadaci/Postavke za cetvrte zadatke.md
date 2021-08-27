@@ -69,7 +69,7 @@ Naći i ispisati prosjek potrošnje goriva po km u vozilima tipa C u cijeloj mat
 
 **(U ovom zadatku je zabranjeno indexirati elemente niza uglastim zagradama. Obavezno koristiti aritmetiku pokazivača.)**
 
-## [**04 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/04.cpp)
+## [**04 (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Cetvrti%20ispitni.cpp)
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa vremenska_prognoza (prognoza je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza.
 
