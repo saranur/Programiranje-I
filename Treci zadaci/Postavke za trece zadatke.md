@@ -24,7 +24,7 @@ Napisati program koji će omogućiti korisniku da unese veličinu jednodimenzion
 
 **(Obavezno koristiti aritmetiku pokazivača. Obavezno sve riješiti jednom rekurzivnom funkcijom.)**
 
-## [**05**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 3/05.cpp)
+## [**05**](https://github.com/saranur/Programiranje-1/blob/main/Treci%20zadaci/Peti%20zadatak.cpp)
 
 Napisati program koji će omogućiti korisniku da unese veličinu jednodimenzionalnog dinamičkog niza integer vrijednosti. Napisati rekurzivnu funkciju koja će taj niz popuniti random brojevima u opsegu od 1 do 100. Za generisanje random brojeva koristiti rand() % 100 + 1. Punjenje niza se prekida kada se popuni cijeli niz ili kada se tri puta uzastopno dobije isti random broj. U ovom zadatku je zabranjeno indeksirati elemente niza uglastim zagradama. Obavezno koristiti aritmetiku pokazivača.
 
