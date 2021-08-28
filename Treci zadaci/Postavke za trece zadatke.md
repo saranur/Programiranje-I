@@ -18,7 +18,7 @@ Napisati program koji će omogućiti korisniku da unese veličinu jednodimenzion
 
 **(U ovom zadatku je zabranjeno indeksirati niz uglastim zagradama. Obavezno koristiti aritmetiku pokazivača.)**
 
-## [**04**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 3/04.cpp)
+## [**04**](https://github.com/saranur/Programiranje-1/blob/main/Treci%20zadaci/Cetvrti%20zadatak.cpp)
 
 Napisati program koji će omogućiti korisniku da unese veličinu jednodimenzionalnog dinamičkog niza integer vrijednosti. Napisati rekurzivnu funkciju koja će taj niz popuniti faktorijelom rednog broja člana niza (1!, 2!, 3!, 4!...). Rekurzija se prekida kada se popuni cijeli niz ili kada se desi overflow na integer varijabli. U ovom zadatku je zabranjeno indeksirati elemente niza uglastim zagradama.
 
