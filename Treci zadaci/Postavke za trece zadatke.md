@@ -6,7 +6,7 @@ Zatim napraviti drugu rekurzivnu funkciju koja će izračunati zbir svih elemena
 
 **(Obavezno koristiti aritmetiku pokazivača)**
 
-## [**02**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 3/02.cpp)
+## [**02**](https://github.com/saranur/Programiranje-1/blob/main/Treci%20zadaci/Drugi%20zadatak.cpp)
 
 Napisati program koji će omogućiti korisniku da unese veličinu jednodimenzionalnog dinamičkog niza integer vrijednosti. Napisati rekurzivnu funkciju koja će taj niz popuniti serijom brojeva 2, 4, 8, 16, 32, 64, 128, 256, 512, itd., tako da je svaki sljedeći broj jednak prethodnom pomnoženom sa 2, počevši od broja 2. Zatim,korisnik unosi željeni broj te rekurzivnom funkcijom provjerava da li je taj broj član kreiranog niza. Rekurzija se prekida kada se popuni cijeli niz ili kada se desi overflow na integer varijabli.
 
