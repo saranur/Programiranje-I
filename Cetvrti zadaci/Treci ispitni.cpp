@@ -21,6 +21,9 @@ struct vozilo {
         nazivVozila = nullptr;
         delete tipVozila;
         tipVozila = nullptr;
+        delete  potrosnja_goriva_po_km;
+        potrosnja_goriva_po_km = nullptr;
+
     }
 };
 
