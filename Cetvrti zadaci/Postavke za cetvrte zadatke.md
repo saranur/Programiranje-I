@@ -114,7 +114,7 @@ Redovi dvodimenzionalnog niza predstavljaju različite košarkaše a kolone razl
 
 **(Funkcija treba vratiti pokazivač na memorijsku lokaciju u kojoj je upisana ta razlika.)**
 
-## [**07 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/07.cpp)
+## [**7. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Sedmi%20ispitni.cppVault/Programiranje-I/blob/main/Zadatak 4/07.cpp)
 
 Kreirati dvodimenzionalni dinamički niz čiji su elementi objekti tipa figura (figura je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza, te omogućiti unos elemenata.
 
