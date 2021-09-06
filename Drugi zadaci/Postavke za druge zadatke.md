@@ -1,4 +1,4 @@
-## [**01 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 2/01.cpp)
+## [**1. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Drugi%20zadaci/Prvi%20zadatak.cpp)
 
 Napisati program koji simulira bacanje 3 kockice (jedna kockica ima 6 strana i na tim stranama su brojevi 1 - 6). Simuliranje bacanja svake kockice ostvariti funkcijom *rand() % 6 + 1*. Simulirati konstantno bacanje sve tri kockice dok se u dva uzastopna bacanja ne desi da se dobiju isti brojevi na sve tri kockice (*npr. u šestom bacanju se dobiju brojevi 2, 2, 2, a u sedmom 4, 4, 4 na sve tri kockice*).
 
