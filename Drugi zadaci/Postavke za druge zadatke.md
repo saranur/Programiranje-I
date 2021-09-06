@@ -6,7 +6,7 @@ Napisati program koji simulira bacanje 3 kockice (jedna kockica ima 6 strana i n
 
 **Nije potrebno tražiti bilo kakav unos od korisnika.**
 
-## [**02 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 2/02.cpp)
+## [**2. Zadatak**](https://github.com/saranur/Programiranje-1/blob/main/Drugi%20zadaci/Drugi%20zadatak.cpp)
 
 Napisati program koji će omogućiti unos prirodnog broja A (A > 100000), te kreirati i ispisati broj B koji će se sastojati od cifara broja A u obrnutom redoslijedu gdje je svaka parna cifra uklonjena.
 
