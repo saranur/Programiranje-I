@@ -6,7 +6,7 @@ Napisati program koji simulira bacanje 3 kockice (jedna kockica ima 6 strana i n
 
 **Nije potrebno tražiti bilo kakav unos od korisnika.**
 
-## [**2. Zadatak**](https://github.com/saranur/Programiranje-1/blob/main/Drugi%20zadaci/Drugi%20zadatak.cpp)
+## [**2. Zadatak(Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Drugi%20zadaci/Drugi%20zadatak.cpp)
 
 Napisati program koji će omogućiti unos prirodnog broja A (A > 100000), te kreirati i ispisati broj B koji će se sastojati od cifara broja A u obrnutom redoslijedu gdje je svaka parna cifra uklonjena.
 
@@ -14,7 +14,7 @@ Napisati program koji će omogućiti unos prirodnog broja A (A > 100000), te kre
 
 **(Obavezno koristiti bar jednu korisnički definisanu funkciju)**
 
-## [**03 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 2/03.cpp)
+## [**3. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Drugi%20zadaci/Treci%20zadatak.cpp)
 
 Napisati program koji omogućava unos pozitivnog broja n te pronalazi njegove parne cifre i formira novi broj u kojem su parne cifre zamijenjene cifrom '5'.
 
