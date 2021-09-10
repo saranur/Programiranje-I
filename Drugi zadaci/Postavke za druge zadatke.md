@@ -20,7 +20,7 @@ Napisati program koji omogućava unos pozitivnog broja n te pronalazi njegove pa
 
 **Dodatno program treba ispisati razliku unesenog i broja koji se dobije nakon zamjene.**
 
-## [**04 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 2/04.cpp)
+## [**4. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Drugi%20zadaci/Cetvrti%20zadatak.cpp)
 
 Svaki paran broj se može prikazati kao suma dva prosta broja (tkz. Goldbachovo pravilo). Napisati program koji će najprije učitati dva prirodna broja n1 i n2 (n2 > n1).
 
