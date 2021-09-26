@@ -1,4 +1,4 @@
-## [**01 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 1/01.cpp)
+## [**1. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Prvi%20zadaci/Prvi%20zadatak.cpp)
 
 Poštujući sve faze programiranja, napisati program koji korisniku omogućava unos realnog broja x i odabir funkcije za proračun datog izraza. Korisnik bira funkciju unosom jednog od sljedećih karaktera: 's'(sin), 'c'(cos). U slučaju da korisnik unese karakter koji ne odgovara niti jednog od predefinisanih vrijednosti ispisati odgovarajuću poruku i ponoviti odabir.
 
