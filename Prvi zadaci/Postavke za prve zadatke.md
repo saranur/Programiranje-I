@@ -6,7 +6,7 @@ Za odabranu funkciju sin izraz je:
 
 [![img](https://camo.githubusercontent.com/b51a7ce56110fe51f19eae9e6591b25fc4931f5e276e31884242738184760cd4/68747470733a2f2f692e706f7374696d672e63632f5636356e467233702f53637265656e73686f742d312e706e67)](https://camo.githubusercontent.com/b51a7ce56110fe51f19eae9e6591b25fc4931f5e276e31884242738184760cd4/68747470733a2f2f692e706f7374696d672e63632f5636356e467233702f53637265656e73686f742d312e706e67)
 
-## [**02**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 1/02.cpp)
+## [**2. Zadatak**](https://github.com/saranur/Programiranje-I/blob/main/Prvi%20zadaci/Drugi%20zadatak.cpp)
 
 Napisati program koji korisniku omogućava unos cijelog broja N, te izračunava geometrijsku sredinu svih neparnih brojeva u intervalu [1, N] koji nisu djeljivi sa brojem 5. Rezultat trebi biti zaokružen na dvije decimale.
 
