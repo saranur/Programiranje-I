@@ -1,5 +1,5 @@
-# Programiranje-1
-Repozitorij za zadatke iz Programiranja 1. 
+# Programiranje-I
+Repozitorij za zadatke iz Programiranja I. 
 
 [Postavke za prve zadatke](https://github.com/saranur/Programiranje-1/blob/main/Prvi%20zadaci/Postavke%20za%20prve%20zadatke.md)
 
