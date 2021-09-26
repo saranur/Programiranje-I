@@ -1,11 +1,11 @@
 ﻿#include <iostream>
-#include <cmath>
 using namespace std;
-float sumaSin(int, char);
-float sumaCos(int, char);
+ float const PI = 3.14159265;
+float sumaSin(float);
+float sumaCos(float);
 int main()
 {
-	int x;
+	float x;
 	cout << "Unesite neki broj x. " << endl;
 	cin >> x;
 	char izbor;
@@ -18,15 +18,15 @@ int main()
 	}
 	while (izbor!='s' && izbor!='c');
 	if(izbor=='s')
-	cout<<" Suma za "<<izbor<< " je: "<<sumaSin(x, izbor);
+	cout<<" Suma za "<<izbor<< " je: "<<sumaSin(x);
 	else
-		cout << " Suma za " << izbor << " je: " << sumaCos(x, izbor);
+		cout << " Suma za " << izbor << " je: " << sumaCos(x);
 
 	return 0;
 	cin.get();
 }
-
-float sumaSin(int x, char izbor){
+ 
+float sumaSin(float x){
 	float suma = 1;
 	for (int i=1; i<=x; i++)
 	{
@@ -35,7 +35,7 @@ float sumaSin(int x, char izbor){
 	return suma;
 }
 
-float sumaCos(int x, char izbor) {
+float sumaCos(float x) {
 	float suma = 1;
 	for (int i = 1; i <= x; i++)
 	{
@@ -44,3 +44,24 @@ float sumaCos(int x, char izbor) {
 	return suma;
 }
 
+//Ukoliko zelite da suma bude ispisana u stepenima onda odkomentirajte:
+/*
+float sumaSin(float broj) {
+	double suma=1.0f;
+	for (int i = 1; i <= broj; i++)
+	{
+		suma += i / (sin(PI / 180 *( broj / i)) + broj);
+	}
+	return suma;
+	}
+
+float sumaCos(float broj) {
+	double suma = 1.0f;
+	
+	for (int i = 1; i <= broj; i++)
+	{
+		suma += i / (cos(PI / 180 * (broj / i)) + broj);
+	}
+	return suma;
+}
+*/
