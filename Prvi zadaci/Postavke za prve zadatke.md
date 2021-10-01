@@ -44,7 +44,7 @@ b) Za taj broj pronaći i ispisati prvu, srednju i zadnju cifu (koristiti zasebn
 
 c) Obrnuti cifre tom broju (npr. ako je broj bio 12345 treba biti 54321)
 
-## [**05 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 1/05.cpp)
+## [**5. Zadatak(Ispitni)**](https://github.com/saranur/Programiranje-I/blob/main/Prvi%20zadaci/Peti%20zadatak.cpp)
 
 Napisati program koji će omogućiti unos prirodnog broja A (A > 100000), te kreirati i ispisati broj B koji će se sastojati od cifara broja A u obrnutom redoslijedu u kojem je svaka parna uklonjena. (npr. ako se unese 45362792 funkcija će vratiti 9735). Ispisati razliku brojeva A i B.
 
