@@ -14,7 +14,7 @@ Geometrijska sredina n brojeva se računa po formuli:
 
 [![img](https://camo.githubusercontent.com/51ff9b6e9982edf1af3727ebcc020a233ad7fde404d156a86e8af0f4e20a0e13/68747470733a2f2f692e706f7374696d672e63632f534b6e564c73436a2f53637265656e73686f742d312e706e67)](https://camo.githubusercontent.com/51ff9b6e9982edf1af3727ebcc020a233ad7fde404d156a86e8af0f4e20a0e13/68747470733a2f2f692e706f7374696d672e63632f534b6e564c73436a2f53637265656e73686f742d312e706e67)
 
-## [**03 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 1/03.cpp)
+## [**03 (Ispitni)**](https://github.com/saranur/Programiranje-I/blob/main/Prvi%20zadaci/Treci%20zadatak.cpp)
 
 Napisati program u kojem je potrebno unijeti odabrani broj cifara počevši od cifre najveće težinske vrijednosti, pa od njih sastaviti i napisati prirodni broj. Unos cifara se prekida kada se unese broj manji od 0, ukoliko korisnik unese cifru veću od 9, ispisati poruku da cifra nije validna, ali se unos ne prekida.
 
