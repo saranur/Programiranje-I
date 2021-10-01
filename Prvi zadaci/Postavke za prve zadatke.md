@@ -36,7 +36,7 @@ Upisi cifru: -1
 Broj sastavljen od zadanih cifara je 28.
 ```
 
-## [**04**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 1/04.cpp)
+## [**4. Zadatak**](https://github.com/saranur/Programiranje-I/blob/main/Prvi%20zadaci/Cetvrti%20zadatak.cpp)
 
 a) Omogućiti korisniku unos prirodnog broja i nakon toga napraviti funkciju koja će prebrojati koliko taj broj ima cifara
 
