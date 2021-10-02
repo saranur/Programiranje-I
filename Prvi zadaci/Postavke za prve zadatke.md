@@ -72,7 +72,7 @@ Poštujući sve faze programiranja napisati program koji omogućava unos prirodn
 
 [![img](https://camo.githubusercontent.com/59c961b608c6ce14c1a598950a36f745dfd4805914b6fd62c9e479ebebed3d16/68747470733a2f2f692e706f7374696d672e63632f47323067505247432f53637265656e73686f742d322e706e67)](https://camo.githubusercontent.com/59c961b608c6ce14c1a598950a36f745dfd4805914b6fd62c9e479ebebed3d16/68747470733a2f2f692e706f7374696d672e63632f47323067505247432f53637265656e73686f742d322e706e67)
 
-## [**10**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 1/10.cpp)
+## [**10. Zadatak**](https://github.com/saranur/Programiranje-I/blob/main/Prvi%20zadaci/Deseti%20zadatak.cpp)
 
 Poštujući sve faze procesa programiranja, napišite program, koji za uneseni prirodni broj n i realni broj x izračunava:
 
