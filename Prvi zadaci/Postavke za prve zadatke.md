@@ -66,7 +66,7 @@ Omogućiti unos dva broja X i Y iz intervala od 10 do 5000. Kreirati program koj
 
 **Definišite vrijednosti intervala [X, Y]: 11 150** **Brojevi koji ispunjuju dati uslov: 18 20 21 24 27**
 
-## [**09**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 1/09.cpp)
+## [**9. Zadatak**](https://github.com/saranur/Programiranje-I/blob/main/Prvi%20zadaci/Deveti%20zadatak.cpp)
 
 Poštujući sve faze programiranja napisati program koji omogućava unos prirodnog broja n preko tastature te izračunava sumu:
 
