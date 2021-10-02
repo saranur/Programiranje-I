@@ -50,7 +50,7 @@ Napisati program koji će omogućiti unos prirodnog broja A (A > 100000), te kre
 
 **(Obavezno koristiti bar jednu korisnički definiranu funkciju.)**
 
-## [**06 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 1/06.cpp)
+## [**6. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-I/blob/main/Prvi%20zadaci/%C5%A0esti%20zadatak.cpp)
 
 Poštujući sve faze procesa programiranja, napisati program koji korisniku omogućava unos cijelog broja N, te izračunava vrijednost sume faktorijela neparnih brojeva u intervalu [1, N]. Suma faktorijela prikazana je sljedećom formulom: S = 1! + 3! + 5! + ... + N!
 
