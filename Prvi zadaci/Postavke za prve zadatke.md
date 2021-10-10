@@ -78,7 +78,7 @@ Poštujući sve faze procesa programiranja, napišite program, koji za uneseni p
 
 [![img](https://camo.githubusercontent.com/3a401d1eda60e73421e8bbf8e4e1e298c81f28cc8d72bbd1efd2b4e3fb6377da/68747470733a2f2f692e706f7374696d672e63632f7a6650387156736b2f53637265656e73686f742d312e706e67)](https://camo.githubusercontent.com/3a401d1eda60e73421e8bbf8e4e1e298c81f28cc8d72bbd1efd2b4e3fb6377da/68747470733a2f2f692e706f7374696d672e63632f7a6650387156736b2f53637265656e73686f742d312e706e67)
 
-## [**11 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 1/11.cpp)
+## [**11. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-I/blob/main/Prvi%20zadaci/Jedanaesti%20zadatak.cpp)
 
 Napisati program koji korisniku omogućava unos realnog broja x, cijelog broja m i odabir funkcije za proračun datog izraza. Korisnik bira funkciju unosom sljedećih karaktera 's' (sin), 'c' (cos), 'q' (sqrt), 'p' (pow). U slučaju da korisnik unese karakter koji ne odgovara niti jednoj od predefinisanih vrijednosti ispisati odgovarajuću poruku i ponoviti odabir. Funkciji pow postavite broj 2 za drugi parametar.
 
