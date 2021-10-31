@@ -1,7 +1,10 @@
 # Programiranje-I
-Repozitorij za zadatke iz Programiranja I. 
 
-[Postavke za prve zadatke](https://github.com/saranur/Programiranje-1/blob/main/Prvi%20zadaci/Postavke%20za%20prve%20zadatke.md)
+_Repozitorij za zadatke iz Programiranja I._
+
+<hr>
+
+[Postavke za prve zadatke](https://github.com/saranur/Programiranje-1/blob/main/Prvi%20zadaci/Postavke%20za%20prve%20zadatke.md) <br> 
 
 [Postavke za druge zadatke](https://github.com/saranur/Programiranje-1/blob/main/Drugi%20zadaci/Postavke%20za%20druge%20zadatke.md)
 
@@ -9,3 +12,4 @@ Repozitorij za zadatke iz Programiranja I.
 
 [Postavke za cetvrte zadatke](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Postavke%20za%20cetvrte%20zadatke.md)
 
+<hr>
