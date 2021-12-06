@@ -92,7 +92,7 @@ Za odabranu funkciju izraz je:
 
 Napisati program koji korisniku omogućava unos cijelog broja n, te izračunava:
 
-![[img]](C:\Users\Sara Nur\Pictures\Screenshots\Screenshot (88).png)
+<img src=https://github.com/saranur/Programiranje-I/blob/10d3b8812e97a821ae7755a6c8a38c7cf434e1b1/12_zadatak_PRI.png>
 
 ## [**13. Zadatak**]()
 
