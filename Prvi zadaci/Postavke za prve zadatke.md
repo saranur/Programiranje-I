@@ -91,9 +91,8 @@ Za odabranu funkciju izraz je:
 ## [**12. Zadatak**]()
 
 Napisati program koji korisniku omogućava unos cijelog broja n, te izračunava:
-$$
-S = {1\over(n + 1)}-{2\over(n - 1)+2!}+ {3\over(n-2)+3!}-{4\over(n-3)+4!}+...+*{n\over{n+(-1)^(n-1)}+n!}
-$$
+
+![[img]](C:\Users\Sara Nur\Pictures\Screenshots\Screenshot (88).png)
 
 ## [**13. Zadatak**]()
 
