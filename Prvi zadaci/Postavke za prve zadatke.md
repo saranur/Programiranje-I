@@ -103,7 +103,7 @@ Za odabir funkcije s izraz je: **f(x, m) = (x - 1) \* 1 + (x - 2) \* 2 + ... + (
 
 Za odabir funkcije o izraz je: **f(x, m) = (x - 1) \* 1 - (x - 2) \* 2 - ... - (x - m) \* m itd.**
 
-**Broj faktora u izrazu odgovara unesenom broju m.** **U rješenju obavezno iskoristiti switch iskaz.**
+**Broj faktora u izrazu odgovara unesenom broju m.** **U rješenju obavezno iskoristiti switch iskaz.**  
 
 ## [**14. Zadatak**]()
 
