@@ -1,6 +1,6 @@
  
 
-## [**01 (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Prvi%20ispitni.cpp)
+## [**1. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Prvi%20ispitni.cpp)
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa fudbaler (fudbaler je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza.
 
@@ -25,7 +25,7 @@ golovi: rand() % 5
 
 **(U ovom zadatku je zabranjeno indexirati elemente niza uglastim zagradama. Obavezno koristiti aritmetiku pokazivača.)**
 
-## [**02 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/02.cpp)
+## [**2. Zadatak (Ispitni)**]()
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa vozilo (vozilo je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza.
 
@@ -49,7 +49,7 @@ Zatim napisati i testirati funkciju koja će pronaći i ispisati porosječnu kub
 
 **(U ovom zadatku je zabranjeno indexirati elemente niza uglastim zagradama. Obavezno koristiti aritmetiku pokazivača.)**
 
-## [**03 (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Treci%20ispitni.cpp)
+## [**3. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Treci%20ispitni.cpp)
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa vozilo (vozilo je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza.
 
@@ -69,7 +69,7 @@ Naći i ispisati prosjek potrošnje goriva po km u vozilima tipa C u cijeloj mat
 
 **(U ovom zadatku je zabranjeno indexirati elemente niza uglastim zagradama. Obavezno koristiti aritmetiku pokazivača.)**
 
-## [**04 (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Cetvrti%20ispitni.cpp)
+## [**4. Zadatak (Ispitni)**](https://github.com/saranur/Programiranje-1/blob/main/Cetvrti%20zadaci/Cetvrti%20ispitni.cpp)
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa vremenska_prognoza (prognoza je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza.
 
@@ -86,7 +86,7 @@ Redovi dvodimenzionalnog niza predstavljaju različite meteorologe, a kolone raz
 
 **(U ovom zadatku je zabranjeno indeksirati elemente u niza uglastim zagradama. Obavezno koristiti aritmetiku pokazivača.)**
 
-## [**05**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/05.cpp)
+## [**5. Zadatak**]()
 
 2D niz na slici predstavlja šahovsku tablu. Napraviti i testirati u main programu slijedeće funkcije:
 
@@ -97,7 +97,7 @@ Za olaksanje rjesenja, mozete izabrati prototip funkcija po zelji te kreirati do
 
 **(U ovom zadatku je zabranjeno indexirati elemente niza uglastim zagradama. Obavezno koristiti aritmetiku pokazivača.)**
 
-## [**06 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/06.cpp)
+## [**6. Zadatak (Ispitni)**]()
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa košarkaš (košarkaš je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza.
 
@@ -153,11 +153,11 @@ Potrebno je napisati funkciju koja će računati prosječnu visinu svih figura k
     +-----+-----+-----+-----+-----+-----+-----+-----+
 ```
 
-## [**08**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/08.cpp)
+## [**8. Zadatak**]()
 
 Dat je 2D niz dimenzija 8 x 8. Omogućiti korisniku unos cjelobrojnih elemenata 2D niza tako da se u svaki neparni red unesu parni brojevi a svaki parni red neparni broj. Napraviti funkciju koja pronalazi kolonu sa najmanjim prosjekom elemenata. U istoj funkciji ispisati index pronađene kolone, a u main funkciji sve elemente te kolone.
 
-## [**09 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/09.cpp)
+## [**9. Zadatak (Ispitni)**]()
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa uposlenik (uposlenik je struktura čija su obilježja data). Omogućiti korisniku da unese dimenzije niza.
 
@@ -169,29 +169,30 @@ Redovi dvodimenzionalnog niza predstavljaju različite odjele firme u kojima rad
 
 Omogućiti korisniku unos svih podataka za sve radnike, te napraviti funkciju koja će naći najveći prosjek plate po odjelima firme te ispisati koji je to redni broj odjela (indeks reda sa najvećim prosjekom) i koji je najveći prosjek plate.
 
-## [**10**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/10.cpp)
+## [**10. Zadatak**]()
 
 Neka je dat 2D niz tipa int dimenzija 10x10. Kreirati, a potom u glavnom programu testirati, sljedeće funkcije: a) Funkciju koja za vrsi generisanje podataka u 2D nizu na nacin da se u elementu sa indexom [0][0] upise vrijednost 1 a svaki slijedeci element da ima vrijednost prethodnog elementa pomnozenog sa 2 kao na slici.Generisanje se prekida ako se desi overflow na varijabli int. b) Funkciju koja popunjenu matricu iz pod-zadatka a) transponuje tako sto joj zamjeni redove i kolone. c) Funkciju koja računa aritmetičku sredinu elemenata na "crnim poljima" iznad glavne dijagonale kao na slici
 
-## [**11**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/11.cpp)
+## [**11. Zadatak**]()
 
 Napisati program koji će omogućiti unos elemenata matrice dimenzija 10x10 cijelim brojevima sa neparnim brojem cifara.Za provjeru broja cifara koristiti funkciju brCif(int). Zatim pronaći i ispisati red sa najvećim prosjekom (aritmetičkom sredinom) elemenata, te kolonu sa najmanjim prosjekom elemenata.
 
-## [**12**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/12.cpp)
+## [**12. Zadatak**]()
 
 Dat je 2D niz koji simulira šahovsku tablu. Omogućiti korisniku unos cjelobrojnih elemenata 2D niza tako da se u svako "crno" polje unese parni broj sa neparnim brojem cifara, a u "bijelo polje neparni broj sa parnim brojem cifara. Izračunati i ispisati prosjeke (aritmetičke sredine) svih elemenata na bijelim poljima iznad glavne dijagonale te na crnim poljima ispod sporedne dijagonale.
 
-## [**13**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/13.cpp)
+## [**13. Zadatak**]()
 
 Napisati program koji će omogučiti: Unos 2D niza od 10x10 elemanata vodeći računa da su svi elementi dvocifreni (ukoliko unos nekog elementa ne zadovoljava uslov, ponavljati unos tog elementa dok se ne zadovolji uslov); Koristiti funkciju unos Izvršiti transpoziciju niza tako što će se zamjeniti redovi i kolone - Koristiti funkciju transpose, a zatim na osnovu izmijenjenog 2D niza: Izračunati aritmetičku sredinu svih prostih brojeva ispod sporedne dijagonale - Koristiti dvije funkcije: aritmeticka i prost_broj (pozivati će se iz funkcije aritmeticka) Napisati funkciju simpatican koja će provjeriti da li su brojevi iznad sporedne dijagonale simpatični*. Obavezno koristiti navedene funkcije, a parametre i eventualne povratne vrijednosti definisati prema potrebi. U main() funkciji napisati testni program koji će omogućiti izvršenje svih funkcija navedenim redoslijedom.
 
 ```
-[a][a][a][a][a]        [a][b][c][d][e][b][b][b][b][b]        [a][b][c][d][e][c][c][c][c][c]  --->  [a][b][c][d][e][d][d][d][d][d]        [a][b][c][d][e][e][e][e][e][e]        [a][b][c][d][e]
+[a][a][a][a][a]        [a][b][c][d][e][b][b][b][b][b]        [a][b][c][d][e][c][c][c][c][c]  --->  
+[a][b][c][d][e][d][d][d][d][d]        [a][b][c][d][e][e][e][e][e][e]        [a][b][c][d][e]
 ```
 
 Pomoć: Broj je simpatičan ukoliko je zbir cifara njegovog kvadrata jednak kvadratu zbira njegovih cifara. Broj 21 je simpatičan jer je s(441) = s(21) * s(21) pri čemu je s(n) zbir cifara prirodnog broja n.
 
-## [**14 (Ispitni)**](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/14.cpp)
+## [**14. Zadatak (Ispitni)**]()
 
 Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa student (student je struktura čija su obilježja data u nastavku). Omogućiti korisniku da unese dimenzije niza.
 
@@ -199,16 +200,17 @@ Kreirati dinamički dvodimenzionalni niz čiji su elementi objekti tipa student 
 struct student{    char *ID;    char *imePrezime;    float *prosjek;};
 ```
 
+
 Kompletan 2D niz predstavlja univerzitet. Redovi dvodimenzionalnog niza predstavljaju različite fakultete,a kolone studente (radi jednostavnosti rješenja podrazumijevati da svaki fakultet ima isti broj studenata). Omogućiti korisniku unos svih podataka za sve studente, te napraviti funkciju koja će pronaći fakultet sa najvećim prosjekom te ispisati koji je to redni broj fakulteta (index reda sa najvećim prosjekom). Zatim pronaći i ispisati ID studenta koji ima najveći prosjek na cijelom univerzitetu.
 
 **(U ovom zadatku je zabranjeno indexirati elemente niza uglastim zagradama. Obavezno koristiti aritmetiku pokazivača. Obavezno voditi računa o dealociranju dinamički alocirane memorije.)**
 
-## [**15** (**Ispitni**)](https://github.com/Infinity-Vault/Programiranje-I/blob/main/Zadatak 4/15.cpp)
+## [**15. Zadatak** (**Ispitni**)]()
 
 Kreirati dvodimenzionalni dinamički niz čiji su elementi objekti tipa fudbaler ( fudbaler je struktura čija su obilježja data u nastavku).
 
 ```
-struct fudbaler{int ID;char*ime_i_Prezime;char* pozicija;//prihvati samo slova N, O i V (napad, vezni i odbrana);int *broj_golova;};
+struct fudbaler{int ID;char*ime_i_Prezime;char* pozicija; //prihvati samo slova N, O i V (napad, vezni i odbrana)
 ```
 
 Omogućiti korisniku da unese dimenzije niza te omogućiti unos elemenata. Redovi 2D niza predstavljaju različite klubove, a kolone različite fudbalere (igrače). Radi jednostavnosti rješenja, predpostaviti da svaki klub ima isti broj fudbalera.Ovisno o unesenoj poziciji (N,O ili V) identificira se da li je dati fudbaler napadač,odbrambeni ili vezni igrač. U različitim klubovima mogu igrati različiti brojevi napadača, veznih igrača ili odbrambenih igrača.
